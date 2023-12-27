@@ -24,7 +24,7 @@ if (isNajmUk) {
     // Instructions for PGP verification
     console.group('%cPGP Verification Instructions', 'color: #33CC33; font-size: 16px; font-weight: bold;');
     console.log('To verify PGP, use Najm Ajmal\'s public key:');
-    console.log('%c(PGP PUB)  https://raw.githubusercontent.com/NajmAjmal/NajmAjmal/main/PGP', 'color: #3366FF; text-decoration: underline;');
+    console.log('%c(PGP PUB)  https://publickey.najm.uk', 'color: #3366FF; text-decoration: underline;');
     console.log('Use this website to verify the signature:');
     console.log('%chttps://pgp.najm.uk', 'color: #3366FF; text-decoration: underline;');
     console.groupEnd();
