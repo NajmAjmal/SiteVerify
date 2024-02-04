@@ -1,5 +1,4 @@
-// Clear console and add blank line
-console.clear();
+// Add blank line
 console.log('\n');
 
 // Retrieve the meta tag content
